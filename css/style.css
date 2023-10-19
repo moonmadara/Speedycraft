@@ -1371,7 +1371,7 @@ label.error{
   font-weight: normal;
   letter-spacing: 0.16em;
   text-transform: uppercase;
-  color:#A6CE38;
+  color:#fff;
   padding: 0 0 1em;
   border-bottom:1px solid rgba(249,249,249,0.2);
   margin: 0 0 .5em;
@@ -1499,7 +1499,7 @@ label.error{
   height: 9em;
   margin:-4.5em;
   border-radius: 50%;
-  background-color: rgba(197,164,126,0.84);
+  background-color: #A6CE38;
   overflow: hidden;
   opacity: 0;
   -webkit-transform: scale(0.5);
